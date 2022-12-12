@@ -1,6 +1,8 @@
 {
     "warehouse": "bigquery",
-    "defaultDatabase": "kubectl-blogposts",
     "defaultSchema": "dataform",
-    "defaultLocation": "US"
+    "assertionSchema": "dataform_assertions",
+    "defaultDatabase": "ai-analytics-solutions",
+    "defaultLocation": "US",
+    "useRunCache": false
 }
