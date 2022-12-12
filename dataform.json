@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "defaultSchema": "dataform",
   "assertionSchema": "dataform_assertions",
@@ -6,3 +7,11 @@
   "defaultLocation": "US"
 }
     
+=======
+{
+    "warehouse": "bigquery",
+    "defaultDatabase": "kubectl-blogposts",
+    "defaultSchema": "dataform",
+    "defaultLocation": "US"
+}
+>>>>>>> refs/heads/main
