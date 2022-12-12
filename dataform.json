@@ -1,0 +1,6 @@
+{
+    "warehouse": "bigquery",
+    "defaultDatabase": "kubectl-blogposts",
+    "defaultSchema": "dataform",
+    "defaultLocation": "US"
+}
