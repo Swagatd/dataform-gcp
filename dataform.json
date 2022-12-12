@@ -1,17 +1,8 @@
-<<<<<<< HEAD
-{
-  "defaultSchema": "dataform",
-  "assertionSchema": "dataform_assertions",
-  "warehouse": "bigquery",
-  "defaultDatabase": "argon-producer-369801",
-  "defaultLocation": "US"
-}
-    
-=======
 {
     "warehouse": "bigquery",
-    "defaultDatabase": "kubectl-blogposts",
     "defaultSchema": "dataform",
-    "defaultLocation": "US"
+    "assertionSchema": "dataform_assertions",
+    "defaultDatabase": "ai-analytics-solutions",
+    "defaultLocation": "US",
+    "useRunCache": false
 }
->>>>>>> refs/heads/main
